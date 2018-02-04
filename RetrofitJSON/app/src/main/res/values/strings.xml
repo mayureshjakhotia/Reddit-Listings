@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reddit Listings</string>
+    <string name="post_title">post_title</string>
+    <string name="post_author">post_author</string>
+    <string name="post_url">post_url</string>
+    <string name="post_thumbnail">post_thumbnail</string>
+    <string name="layout_comment">comment</string>
+    <string name="layout_author">Author</string>
+    <string name="layout_loading_comments">Loading Comments...</string>
+    <string name="layout_previous">Previous</string>
+    <string name="layout_next">Next</string>
+    <string name="layout_refresh">Refresh</string>
+    <string name="layout_hint_type_a_listing">Type a listing endpoint</string>
+    <string name="layout_card_title">Card Title</string>
+</resources>
